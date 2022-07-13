@@ -159,7 +159,7 @@
                         "RansomwareAnalysis_table_name": "[parameters('RansomwareAnalysis_table_name')]",
                         "ThreatHunts_table_name": "[parameters('ThreatHunts_table_name')]",
                         "Anomalies_table_name": "[parameters('Anomalies_table_name')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/niralishah-crest/RubrikSentinelConnector/blob/main/RubrikWebhookEventsApp.zip?raw=true"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/niralishah-crest/RubrikSentinelConnector/blob/webhook-initial/RubrikWebhookEventsApp.zip?raw=true"
                     }
                 }
             ]
