@@ -179,7 +179,7 @@
                         "ThreatHunts_table_name": "[parameters('ThreatHunts_table_name')]",
                         "Anomalies_table_name": "[parameters('Anomalies_table_name')]",
                         "LogLevel": "[parameters('LogLevel')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/niralishah-crest/RubrikSentinelConnector/blob/webhook-durable-final/RubrikSentinelDurableApp.zip?raw=true"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/niralishah-crest/RubrikSentinelConnector/blob/webhook-durable-final/RubrikDataConnector.zip?raw=true"
                     }
                 }
             ]
